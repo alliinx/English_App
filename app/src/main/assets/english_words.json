@@ -1,0 +1,16 @@
+{
+  "words": [
+    {
+      "id": 1,
+      "word": "Power plant",
+      "meaning": "Силовая установка",
+      "image": "https://u.cubeupload.com/allinn_x/powerplant.jpg"
+    },
+    {
+      "id": 2,
+      "word": "Rudder",
+      "meaning": "Штурвал",
+      "image": "https://u.cubeupload.com/allinn_x/images.jpg"
+    }
+  ]
+}

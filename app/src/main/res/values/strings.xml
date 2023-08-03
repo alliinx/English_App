@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MyEnglish</string>
+    <string name="text_for_gallery_icon">Изучение слов\nпо картинкам</string>
+    <string name="button_text_start">Начать</string>
+    <string name="text_test">Тесты</string>
+    <string name="button_text_test">Пройти</string>
+    <string name="text_dictionary">Словарь\nпользователя</string>
+    <string name="text_statistic">Статистика\nвыученных слов</string>
+    <string name="button_text_dictionary">Перейти</string>
+    <string name="button_text_statistic">Посмотреть</string>
+    <string name="text_easy_level">ЛЕГКИЙ УРОВЕНЬ</string>
+    <string name="text_test1"><u>ТЕСТ 1</u></string>
+    <string name="text_for_easy_test1">Определить слово\nпо картинке</string>
+    <string name="text_test2"><u>ТЕСТ 2</u></string>
+    <string name="text_for_easy_test2">Определить слово\nна английском по\nпереводу</string>
+    <string name="text_test3"><u>ТЕСТ 3</u></string>
+    <string name="text_for_easy_test3">Определить слово\nна русском по\nпереводу</string>
+    <string name="text_hard_level">СЛОЖНЫЙ УРОВЕНЬ</string>
+    <string name="text_for_hard_test1">Написать слово по\nкартинке</string>
+    <string name="text_for_hard_test2">Написать слово на\nанглийском по\nпереводу</string>
+    <string name="text_for_hard_test3">Написать слово на\nрусском по\nпереводу</string>
+    <string name="text_for_chert">-</string>
+</resources>
